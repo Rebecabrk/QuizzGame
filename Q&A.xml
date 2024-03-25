@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questionList>
+    <question>Cineva a incercat sa vanda aceasta tara de doua ori pe Internet.
+        <answer type="false">Insulele Feroe</answer>
+        <answer type="false">Groenlanda</answer>
+        <answer type="true">Noua Zeelanda</answer>
+        <answer type="false">Insula Hawaii</answer>
+    </question>
+    <question>Ce țară are cea mai mare speranță de viață?
+        <answer type="true">Hong Kong</answer>
+        <answer type="false">Romania</answer>
+        <answer type="false">Singapore</answer>
+        <answer type="false">Canada</answer>
+    </question>
+    <question>Unde ai fi dacă ai sta pe Treptele Spaniole?
+        <answer type="false">Madrid</answer>
+        <answer type="false">Barcelona</answer>
+        <answer type="false">Zaragoza</answer>
+        <answer type="true">Roma</answer>
+    </question>
+    <question>Care este cel mai lung film creat (85 de ore)?
+        <answer type="false">Inception</answer>
+        <answer type="false">How to lose a guy in ten days</answer>
+        <answer type="true">The cure for insomnia</answer>
+        <answer type="false">Death in the land of Encantos</answer>
+    </question>
+    <question>Care este primul film disney care nu este bazat pe o poveste deja existanta?
+        <answer type="false">101 Dalmatieni</answer>
+        <answer type="false">Mica Sirena</answer>
+        <answer type="false">Pinocchio</answer>
+        <answer type="true">Regele Leu</answer>
+    </question>
+</questionList>

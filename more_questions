@@ -1,0 +1,90 @@
+<question>Care este printesa favorita a lui Walt Disney?
+    <answer type="false">Frumoasa din Padurea Adormita</answer>
+    <answer type="true">Cenusareasa</answer>
+    <answer type="false">Jasmine</answer>
+    <answer type="false">Mulan</answer>
+</question>
+<question>Primul stat din SUA a fost...
+        <answer type="false">New York</answer>
+        <answer type="false">Texas</answer>
+        <answer type="true">Delaware</answer>
+        <answer type="false">Georgia</answer>
+    </question>
+    <question>Unde in lume este ilegal ca un pompier sa salveze o femeie dezbracata?
+        <answer type="true">St. Louis (SUA)</answer>
+        <answer type="false">Buenos Aires (Argentina)</answer>
+        <answer type="false">Johannesburg (Africa de Sud)</answer>
+        <answer type="false">Nairobi (Kenya)</answer>
+    </question>
+    <question>Care tara produce cel mai mult ceai?
+        <answer type="false">Turcia</answer>
+        <answer type="false">Spania</answer>
+        <answer type="false">SUA</answer>
+         <answer type="true">China</answer>
+    </question>
+    <question>Povestea din Romeo si Julieta se intampla in orasul... din Italia
+        <answer type="false">Venetia</answer>
+        <answer type="true">Verona</answer>
+        <answer type="false">Milano</answer>
+        <answer type="false">Roma</answer>
+    </question>
+    <question>Exista un stat in America unde este ilegal ca gainile sa treaca strada.
+        <answer type="false">New York</answer>
+        <answer type="false">Texas</answer>
+        <answer type="true">Georgia</answer>
+        <answer type="false">California</answer>
+    </question>
+    <question>Primul fruct care a fost mancat pe Luna este...
+        <answer type="true">Piersica</answer>
+        <answer type="false">Strugure</answer>
+        <answer type="false">Banana</answer>
+        <answer type="false">Portocala</answer>
+    </question>
+    <question>Cel mai scurt razboi din istorie a durat...
+        <answer type="false">2,5 ore</answer>
+        <answer type="false">1 zi</answer>
+        <answer type="true">38 minute</answer>
+        <answer type="false">3 zile</answer>
+    </question>
+    <question>Prima amenda pentru viteza a fost data in...
+        <answer type="true">Anglia</answer>
+        <answer type="false">Suedia</answer>
+        <answer type="false">Franta</answer>
+        <answer type="false">SUA</answer>
+    </question>
+    <question>Cristofor Columb, exploratorul care a descoperit America, s-a nascut in...
+        <answer type="false">Franta</answer>
+        <answer type="false">Portugalia</answer>
+        <answer type="true">Italia</answer>
+        <answer type="false">Spania</answer>
+    </question>
+    <question>Cati oameni au pasit pe Luna?
+        <answer type="false">1</answer>
+        <answer type="false">5</answer>
+        <answer type="false">10</answer>
+        <answer type="true">12</answer>
+    </question>
+    <question>In ce an a fost produsa prima papusa Barbie?
+        <answer type="false">1963</answer>
+        <answer type="false">1977</answer>
+        <answer type="false">1980</answer>
+        <answer type="true">1959</answer>
+    </question>
+    <question>Napoleon Bonaparte a fost atacat la un moment dat de un grup de...
+        <answer type="false">Porumbei</answer>
+        <answer type="false">Gaste</answer>
+        <answer type="true">Iepuri</answer>
+        <answer type="false">Cartite</answer>
+    </question>
+    <question>Care limba are cele mai multe cuvinte?
+        <answer type="false">Engleza</answer>
+        <answer type="true">Coreeana</answer>
+        <answer type="false">Germana</answer>
+        <answer type="false">Franceza</answer>
+    </question>
+    <question>Cati ani avea Rose in fimul Titanic atunci cand isi spunea povestea?
+        <answer type="true">100</answer>
+        <answer type="false">97</answer>
+        <answer type="false">90</answer>
+        <answer type="false">75</answer>
+    </question>
